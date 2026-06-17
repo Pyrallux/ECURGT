@@ -1,5 +1,7 @@
 # ECURGT
 
+https://excalidraw.com/#json=qMH2J3GT1HGotIlbA-bOR,kGSylTvjf94a3r3qLeEaSg
+
 ## Setup
 
 ```env
